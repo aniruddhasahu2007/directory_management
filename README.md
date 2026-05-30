@@ -298,5 +298,3 @@ CWD: /
 - Modular C programming
 
 ---
-
-*Academic Project — Data Structures and Algorithms | C Programming*
